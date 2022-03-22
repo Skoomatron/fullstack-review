@@ -1,0 +1,12 @@
+Get github API information
+Handle GET requests
+Handle POST requests
+  GitHub username sends post requests
+  The server should then GET users repos
+  Server should save repos to DB
+Define DB Schema
+Write POST requests to DB
+When page is refreshed
+  Get 'top' 25 repos
+    Can make the determination of 'top' on my own
+  Display those repos
